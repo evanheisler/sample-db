@@ -1,0 +1,383 @@
+{
+data: {
+id: "header_from_domains_table",
+type: "table",
+attributes: {
+errors: [ ],
+data: [
+{
+id: "1553208310.valimaildomainworkflow.com-group",
+name: "1553208310.valimaildomainworkflow.com",
+esp_slug: null,
+row_type: "group",
+message_count: 251596,
+emails_count: 251596,
+dmarc_passed_count: 251596,
+esp_slugs: [
+{
+label: "Amazon SES",
+value: "amazon-ses"
+},
+{
+label: "SendGrid",
+value: "sendgrid"
+},
+{
+label: "Mailgun",
+value: "mailgun"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208310.valimaildomainworkflow.com-amazon-ses",
+name: "1553208310.valimaildomainworkflow.com",
+esp_slug: "Amazon SES",
+row_type: "record",
+message_count: 94136,
+emails_count: 94136,
+dmarc_passed_count: 94136,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208310.valimaildomainworkflow.com-sendgrid",
+name: "1553208310.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 82749,
+emails_count: 82749,
+dmarc_passed_count: 82749,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208310.valimaildomainworkflow.com-mailgun",
+name: "1553208310.valimaildomainworkflow.com",
+esp_slug: "Mailgun",
+row_type: "record",
+message_count: 74711,
+emails_count: 74711,
+dmarc_passed_count: 74711,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "abc.valimaildomainworkflow.com-group",
+name: "abc.valimaildomainworkflow.com",
+esp_slug: null,
+row_type: "group",
+message_count: 202913,
+emails_count: 202913,
+dmarc_passed_count: 202913,
+esp_slugs: [
+{
+label: "Mailgun",
+value: "mailgun"
+},
+{
+label: "SendGrid",
+value: "sendgrid"
+},
+{
+label: "Amazon SES",
+value: "amazon-ses"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "abc.valimaildomainworkflow.com-mailgun",
+name: "abc.valimaildomainworkflow.com",
+esp_slug: "Mailgun",
+row_type: "record",
+message_count: 87912,
+emails_count: 87912,
+dmarc_passed_count: 87912,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "abc.valimaildomainworkflow.com-sendgrid",
+name: "abc.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 79659,
+emails_count: 79659,
+dmarc_passed_count: 79659,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "abc.valimaildomainworkflow.com-amazon-ses",
+name: "abc.valimaildomainworkflow.com",
+esp_slug: "Amazon SES",
+row_type: "record",
+message_count: 35342,
+emails_count: 35342,
+dmarc_passed_count: 35342,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208307.valimaildomainworkflow.com-group",
+name: "1553208307.valimaildomainworkflow.com",
+esp_slug: null,
+row_type: "group",
+message_count: 134524,
+emails_count: 134524,
+dmarc_passed_count: 134524,
+esp_slugs: [
+{
+label: "Amazon SES",
+value: "amazon-ses"
+},
+{
+label: "SendGrid",
+value: "sendgrid"
+},
+{
+label: "Mailgun",
+value: "mailgun"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208307.valimaildomainworkflow.com-amazon-ses",
+name: "1553208307.valimaildomainworkflow.com",
+esp_slug: "Amazon SES",
+row_type: "record",
+message_count: 88595,
+emails_count: 88595,
+dmarc_passed_count: 88595,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208307.valimaildomainworkflow.com-sendgrid",
+name: "1553208307.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 43485,
+emails_count: 43485,
+dmarc_passed_count: 43485,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208307.valimaildomainworkflow.com-mailgun",
+name: "1553208307.valimaildomainworkflow.com",
+esp_slug: "Mailgun",
+row_type: "record",
+message_count: 2444,
+emails_count: 2444,
+dmarc_passed_count: 2444,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208289.valimaildomainworkflow.com-sendgrid",
+name: "1553208289.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 89834,
+emails_count: 89834,
+dmarc_passed_count: 89834,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208294.valimaildomainworkflow.com-sendgrid",
+name: "1553208294.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 66384,
+emails_count: 66384,
+dmarc_passed_count: 66384,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208292.valimaildomainworkflow.com-sendgrid",
+name: "1553208292.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 64239,
+emails_count: 64239,
+dmarc_passed_count: 64239,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208296.valimaildomainworkflow.com-sendgrid",
+name: "1553208296.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 56709,
+emails_count: 56709,
+dmarc_passed_count: 56709,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "email1.valimaildomainworkflow.com-group",
+name: "email1.valimaildomainworkflow.com",
+esp_slug: null,
+row_type: "group",
+message_count: 37599,
+emails_count: 37599,
+dmarc_passed_count: 37599,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+},
+{
+label: "Amazon SES",
+value: "amazon-ses"
+},
+{
+label: "Mailgun",
+value: "mailgun"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "email1.valimaildomainworkflow.com-sendgrid",
+name: "email1.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 29669,
+emails_count: 29669,
+dmarc_passed_count: 29669,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "email1.valimaildomainworkflow.com-amazon-ses",
+name: "email1.valimaildomainworkflow.com",
+esp_slug: "Amazon SES",
+row_type: "record",
+message_count: 6385,
+emails_count: 6385,
+dmarc_passed_count: 6385,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "email1.valimaildomainworkflow.com-mailgun",
+name: "email1.valimaildomainworkflow.com",
+esp_slug: "Mailgun",
+row_type: "record",
+message_count: 1545,
+emails_count: 1545,
+dmarc_passed_count: 1545,
+esp_slugs: null,
+dmarc_passed_pct: 100
+},
+{
+id: "1553208293.valimaildomainworkflow.com-sendgrid",
+name: "1553208293.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 22741,
+emails_count: 22741,
+dmarc_passed_count: 22741,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+},
+{
+id: "1553208299.valimaildomainworkflow.com-sendgrid",
+name: "1553208299.valimaildomainworkflow.com",
+esp_slug: "SendGrid",
+row_type: "record",
+message_count: 12452,
+emails_count: 12452,
+dmarc_passed_count: 12452,
+esp_slugs: [
+{
+label: "SendGrid",
+value: "sendgrid"
+}
+],
+dmarc_passed_pct: 100
+}
+],
+columns: [
+{
+id: "header-from-domain",
+label: "Header-from domain",
+props: [
+"name",
+"espSlugs"
+]
+},
+{
+id: "header-from-esp",
+label: "Originating email service provider",
+props: [
+"espSlug"
+]
+},
+{
+id: "header-from-messages",
+label: "Messages",
+props: [
+"messageCount"
+],
+col_class: "text-right"
+},
+{
+id: "header-from-dmarc",
+label: "DMARC pass rate",
+props: [
+"dmarcPassedPct"
+],
+col_class: "text-right"
+},
+{
+id: "header-from-action",
+label: null,
+props: [
+"id",
+"name",
+"rowType",
+"espSlugs",
+"orgDomainId"
+],
+col_class: "text-center"
+}
+],
+totals: {
+rows_count: 10
+}
+}
+}
+}
